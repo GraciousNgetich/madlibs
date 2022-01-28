@@ -1,0 +1,9 @@
+# Mad Libs Game
+
+In this python game user has to enter specific words like a noun, adverb, verb, food, adjective, etc, according to the requirements as substitutes for blanks in the story without knowing the story and then the story will be generated. It will be fun to read aloud the stories after filling the blanks.
+
+# Project Description
+
+The game implements the use of strings, variables, input function and concatenation.
+F-strings provide a way to embed expressions inside string literals for formatting. It is a literal string, prefixed with 'f', which contains expressions inside braces.
+I preffered to use f string where an expression is evaluated at run time, not a constant value, so f-strings are faster than %-formatting and str. format().
